@@ -1,0 +1,61 @@
+- type: salvageFaction
+  id: Critters
+  entries:
+    - proto: MobKangarooSpace
+      cost: 2
+    - proto: MobTick
+      cost: 3
+      prob: 0.02
+    - proto: MobCobraSpace
+      cost: 5
+      prob: 0.1
+    - proto: MobBearSpace 
+      cost: 5
+    - proto: MobSpiderSpace
+      cost: 10
+      prob: 0.02
+  configs:
+    DefenseStructure: MobSpaceShrimp
+    Megafauna: MobSpiderSpace
+
+- type: salvageFaction
+  id: Flesh
+  entries:
+    - proto: MobFleshJared
+    - proto: MobFleshClamp
+    - proto: MobFleshGolem
+    - proto: MobFleshLover
+  configs:
+    DefenseStructure: FleshBlocker
+
+- type: salvageFaction
+  id: Sharks
+  entries:
+    - proto: MobCarpHolo
+    - proto: MobCarpMagic
+    - proto: MobShark
+      cost: 3
+    - proto: MobDragonDungeon
+      cost: 5
+      prob: 0.02
+  configs:
+    DefenseStructure: CarpStatue
+    Megafauna: MobDragonDungeon
+
+- type: salvageFaction
+  id: Clowns
+  entries: 
+    - proto: MobClownSpider
+      cost: 2
+    - proto: MobBehonkerPyro
+      cost: 4
+      prob: 0.1
+    - proto: MobBehonkerGrav
+      cost: 4
+      prob: 0.1
+    - proto: MobBehonkerIce
+      cost: 4
+      prob: 0.1
+    - proto: MobBehonkerElectrical
+      cost: 4
+      prob: 0.1
