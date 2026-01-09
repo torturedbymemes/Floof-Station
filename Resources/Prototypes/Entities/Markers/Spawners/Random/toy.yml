@@ -92,7 +92,7 @@
         # - PlushieNoticeableSecurityOfficer
         - PlushieHarpy
         - PlushieMort
-        - PlushieAvaliHOP 
+        - PlushieAvaliHOP
         - PlushieKoboldCefJustice
         - PlushieSlimeBartender
         - PlushieGrumpyQuartermaster
@@ -119,9 +119,25 @@
         - PlushieCuddlyIPC
         - PlushieFluffyVulpkanin
         - PlushieSecurityTank
+        - MadScientistPlushie
+        - NotASpiderPlushie
+        - NTUnathiPlushie
+        - HappyParamedicPlushie
+        - BraveCaptainPlushie
+        - BlueCorpsmanShadekinPlushie
+        - MedicalMothPlushie
+        - CheerfulQuadborgPlushie
+        - VampiricVulpkaninPlushie
+        - KindDetectivePlushie
+        - MusicianRaccoonPlushie
+        - SleepyHarpyPlushie
+        - GoblinPlushie
+        - MutantPlushie
+        - TwoTailedCommandPlushie
         - PlushieBrashKitsune
         - PlushieHarmlessCaptain
-        # Floof Plushies End 
+        - PlushieDetectiveVulps
+        # Floof Plushies End
       chance: 0.5
       offset: 0.2
 
